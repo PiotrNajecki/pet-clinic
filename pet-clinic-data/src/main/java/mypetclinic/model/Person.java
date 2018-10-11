@@ -1,4 +1,4 @@
-package piotrnajecki.pl.mypetclinic.model;
+package mypetclinic.model;
 
 public class Person {
 

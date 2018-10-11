@@ -1,4 +1,4 @@
-package piotrnajecki.pl.mypetclinic;
+package mypetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

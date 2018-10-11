@@ -1,4 +1,4 @@
-package piotrnajecki.pl.mypetclinic.model;
+package mypetclinic.model;
 
 import java.time.LocalDate;
 
